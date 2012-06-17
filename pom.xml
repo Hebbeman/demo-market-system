@@ -4,4 +4,12 @@
   <artifactId>pilot-market-system</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Market system pilot</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.8.1</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
 </project>
