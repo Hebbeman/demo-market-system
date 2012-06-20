@@ -20,5 +20,9 @@ public class JbehaveExample extends MarketStory {
 	public void systemsStateChange() {
 		System.out.println("System changed");
 	}
+	
+	public void testarMetod() {
+		
+	}
 
 }
